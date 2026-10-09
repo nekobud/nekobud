@@ -1,5 +1,3 @@
-<div align="center">
-
 ```
    ╱|、
   (˚ˎ 。7
@@ -10,8 +8,6 @@
 # hi, i'm nekobud! 🐾
 
 *just a sleepy dev with too many tabs open*
-
-</div>
 
 ---
 
@@ -58,10 +54,6 @@
 
 ---
 
-<div align="center">
-
 *"do things that make you go ٩(◕‿◕)۶"*
 
 ⭐ if a repo of mine made you smile, that means a lot
-
-</div>
